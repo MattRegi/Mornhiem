@@ -1,12 +1,38 @@
-# React + Vite
+# 🛡️ Mornhiem - A Fantasy Text Adventure
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple browser-based fantasy text adventure built with **React**, where you explore the dwarven mines of Mornhiem, collect magical gemstones, and face the orc king Talazar.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎮 About the Game
 
-## Expanding the ESLint configuration
+Talazar, the orc king, has abducted the dwarven queen and hidden the enchanted gemstones that once protected the Kingdom of Mornhiem. It's up to you to explore the caverns, recover the lost gemstones, and reforge the Sword of Mornhiem. But beware — without all the gemstones, you stand no chance against Talazar.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🗺️ Features
+
+- ✅ Classic text adventure style gameplay  
+- ✅ Explore interconnected rooms within the mines  
+- ✅ Collect magical gemstones hidden throughout the map  
+- ✅ Dynamic game log with auto-scrolling  
+- ✅ Visual inventory of collected gemstones  
+- ✅ Interactive UI with movement and item collection buttons  
+- ✅ Play again functionality after game completion  
+- ✅ Layout built with **TailwindCSS** (Still needs mobile optimization)
+
+---
+
+## 🚀 Tech Stack
+
+- JavaScript
+- React  
+- Basic use of **React State**, **Hooks**, and **Component** structure
+- Tailwind CSS 
+
+---
+
+## 🌟 Planned Improvements
+
+- Mobile optimization   
+
