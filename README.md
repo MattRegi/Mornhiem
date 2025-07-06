@@ -19,7 +19,7 @@ Talazar, the orc king, has abducted the dwarven queen and hidden the enchanted g
 - ✅ Visual inventory of collected gemstones  
 - ✅ Interactive UI with movement and item collection buttons  
 - ✅ Play again functionality after game completion  
-- ✅ Layout built with **TailwindCSS** (Still needs mobile optimization)
+- ✅ Layout built with **TailwindCSS**
 
 ---
 
@@ -31,8 +31,4 @@ Talazar, the orc king, has abducted the dwarven queen and hidden the enchanted g
 - Tailwind CSS 
 
 ---
-
-## 🌟 Planned Improvements
-
-- Mobile optimization   
 
